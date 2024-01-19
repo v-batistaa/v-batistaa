@@ -1,4 +1,4 @@
-### Olá, meu nome é Vinicius!
+# Olá, meu nome é Vinicius!
 
 Sou de Maceió, Alagoas. Atualmente, estou iniciando na programação e estudando para me tornar um desenvolvedor Full Stack.
 
