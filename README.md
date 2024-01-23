@@ -13,3 +13,6 @@ Sou de Maceió, Alagoas. Atualmente, estou iniciando na programação e estudand
 ## ⭐ GitHub Stats
 
 [![card](https://github-readme-stats.vercel.app/api?username=v-batistaa&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langsv-batistaa=iuricode&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+
