@@ -6,5 +6,5 @@ Sou de Maceió, Alagoas. Atualmente, estou iniciando na programação e estudand
 
 ## 🚀 Minhas Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,python,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,cs,python,django)](https://skillicons.dev)
 
